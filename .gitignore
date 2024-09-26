@@ -1,0 +1,6 @@
+eyes-generate/
+yolov8x.pt
+yolov8n.pt
+datasets/eyes-detect/
+datasets/
+runs/
